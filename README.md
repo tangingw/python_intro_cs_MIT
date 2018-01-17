@@ -1,4 +1,4 @@
-# Solutions (Might be correct but optimized) for MIT [6.0001](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
+# Solutions (Might be correct but not optimized) for MIT [6.0001](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 
 ### Synopsis
 This is the solution for MIT 6.0001 which I am currently following. Although I might have known most of the python knowledge delivered in the class, still I find that there is no harm to follow the class again. 
